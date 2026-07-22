@@ -7,10 +7,10 @@ public class App {
 
     /**
      * Returns the answer to life, the universe and everything.
-     * @return 42
+     * @return "42"
      */
-    public static int getAnswer() {
-        return 42;
+    public static String getAnswer() {
+        return "42";
     }
 
     public static void main(String[] args) {
